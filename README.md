@@ -65,9 +65,25 @@ I turn messy manual work into systems that run on their own. Custom AI assistant
 
 ---
 
-### `~` activity
+### `~` watch my commits get eaten 🐍
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adekunes/Adekunes/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adekunes/Adekunes/output/snake.svg"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Adekunes/Adekunes/output/snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+### `~` contribution city 🌆
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution calendar"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adekunes&bg_color=00000000&color=E5431E&line=E5431E&point=141210&area=true&hide_border=true" width="90%"/>
 
