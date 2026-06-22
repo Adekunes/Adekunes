@@ -1,0 +1,56 @@
+<svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abdul Quayum - AI Systems Builder - BLANQ Digital">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E5431E" stop-opacity="0.55"/>
+      <stop offset="70%" stop-color="#E5431E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="blade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C5371A"/>
+      <stop offset="50%" stop-color="#E5431E"/>
+      <stop offset="100%" stop-color="#C5371A"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#F6EFDD" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" fill="#100E0C"/>
+  <rect width="1200" height="340" fill="url(#dots)"/>
+
+  <circle cx="950" cy="130" r="350" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3.6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="320;380;320" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <g stroke="#F6EFDD" stroke-width="3" stroke-linecap="round" transform="translate(80,60)">
+    <circle cx="0" cy="0" r="13" fill="none"/>
+    <line x1="-5" y1="15" x2="5" y2="15"/>
+    <line x1="-4" y1="20" x2="4" y2="20"/>
+    <line x1="0" y1="-25" x2="0" y2="-19"/>
+    <line x1="-19" y1="0" x2="-25" y2="0"/>
+    <line x1="19" y1="0" x2="25" y2="0"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3.6s" repeatCount="indefinite"/>
+  </g>
+  <text x="120" y="66" fill="#F6EFDD" font-size="15" letter-spacing="6" font-family="Arial,Helvetica,sans-serif" font-weight="bold">BLANQ · DIGITAL</text>
+
+  <text x="66" y="158" font-size="84" font-weight="900" fill="#FFFFFF" letter-spacing="-2" font-family="'Arial Black',Impact,sans-serif">ABDUL
+    <animate attributeName="opacity" values="0;1" dur="0.7s" fill="freeze"/>
+  </text>
+
+  <rect x="66" y="178" width="0" height="82" fill="#E5431E">
+    <animate attributeName="width" values="0;452" dur="0.9s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+  <text x="82" y="240" font-size="74" font-weight="900" fill="#100E0C" letter-spacing="-2" font-family="'Arial Black',Impact,sans-serif" opacity="0">QUAYUM
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.0s" fill="freeze"/>
+  </text>
+
+  <text x="1132" y="150" text-anchor="end" fill="#E5431E" font-size="21" letter-spacing="3" font-family="Arial,Helvetica,sans-serif" font-weight="bold">AI SYSTEMS BUILDER</text>
+  <text x="1132" y="180" text-anchor="end" fill="#8A8069" font-size="13" letter-spacing="4" font-family="Arial,Helvetica,sans-serif" font-weight="bold">AGENTS · WEB · AUTOMATION</text>
+  <text x="1132" y="300" text-anchor="end" fill="#46412F" font-size="12" letter-spacing="3" font-family="Arial,Helvetica,sans-serif" font-weight="bold">MONTRÉAL · QC</text>
+
+  <rect x="0" y="326" width="1200" height="14" fill="url(#blade)"/>
+
+  <rect x="-200" y="0" width="110" height="340" fill="#E5431E" opacity="0.07">
+    <animate attributeName="x" values="-200;1320" dur="6.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

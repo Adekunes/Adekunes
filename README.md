@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E5431E&height=210&section=header&text=Abdul%20Quayum&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20Systems%20Builder%20%C2%B7%20Founder%20of%20BLANQ%20Digital&descAlignY=60&descSize=18" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Abdul Quayum — AI Systems Builder · BLANQ Digital"/>
 
 <a href="https://blanqdigital.com">
 <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=22&duration=3000&pause=900&color=E5431E&center=true&vCenter=true&width=720&lines=I+build+AI+agents%2C+skills+%26+automation;Websites+that+actually+convert;Dead+social+accounts%2C+revived;Tell+me+the+problem.+I'm+the+fix." alt="what I do"/>
@@ -50,7 +50,7 @@ I turn messy manual work into systems that run on their own. Custom AI assistant
 
 ---
 
-### `~` stats
+### `~` the numbers
 
 <div align="center">
 
@@ -61,7 +61,15 @@ I turn messy manual work into systems that run on their own. Custom AI assistant
 
 <img src="https://github-profile-trophy.vercel.app/?username=Adekunes&theme=onestar&no-bg=true&no-frame=true&margin-w=8&column=7"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adekunes&bg_color=00000000&color=E5431E&line=E5431E&point=141210&area=true&hide_border=true" width="98%"/>
+</div>
+
+---
+
+### `~` activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adekunes&bg_color=00000000&color=E5431E&line=E5431E&point=141210&area=true&hide_border=true" width="90%"/>
 
 </div>
 
@@ -80,9 +88,11 @@ I turn messy manual work into systems that run on their own. Custom AI assistant
 
 ---
 
-### `~` connect
-
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="quote"/>
+
+### `~` connect
 
 <a href="https://blanqdigital.com"><img src="https://img.shields.io/badge/blanqdigital.com-E5431E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://instagram.com/blanqdigital"><img src="https://img.shields.io/badge/@blanqdigital-141210?style=for-the-badge&logo=instagram&logoColor=E5431E"/></a>
