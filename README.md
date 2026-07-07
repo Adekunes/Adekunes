@@ -111,9 +111,12 @@ I turn messy manual work into systems that run on their own. Custom AI assistant
 ### `~` connect
 
 <a href="https://blanqdigital.com"><img src="https://img.shields.io/badge/blanqdigital.com-E5431E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://instagram.com/blanqdigital"><img src="https://img.shields.io/badge/@blanqdigital-141210?style=for-the-badge&logo=instagram&logoColor=E5431E"/></a>
+<a href="https://instagram.com/abdulbuilds"><img src="https://img.shields.io/badge/@abdulbuilds-141210?style=for-the-badge&logo=instagram&logoColor=E5431E"/></a>
+<a href="https://x.com/buildswithabdul"><img src="https://img.shields.io/badge/@buildswithabdul-141210?style=for-the-badge&logo=x&logoColor=E5431E"/></a>
+<a href="https://www.linkedin.com/in/abdul-quayum-adekunle-66b9a61a3"><img src="https://img.shields.io/badge/LinkedIn-141210?style=for-the-badge&logo=linkedin&logoColor=E5431E"/></a>
+<a href="https://instagram.com/blanqdigital"><img src="https://img.shields.io/badge/@blanqdigital-141210?style=for-the-badge&logo=instagram&logoColor=808080"/></a>
 
-<sub><i>BLANQ Agence Web Inc. · Montréal · AI · Web · Automation</i></sub>
+<sub><i>Abdul Builds · personal AI-creator brand &nbsp;|&nbsp; BLANQ Agence Web Inc. · Montréal · AI · Web · Automation</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E5431E&height=90&section=footer"/>
 
