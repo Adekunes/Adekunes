@@ -99,7 +99,6 @@ I turn messy manual work into systems that run on their own. Custom AI assistant
 | 🧰 **[arsenal](https://github.com/Adekunes/arsenal)** | Curated AI-systems tooling — agent-harness hooks, design rubrics, MCP server references. |
 | 🕌 **[Tadween](https://github.com/Adekunes/Tadween)** | Full-stack school-management platform for Dār Al-Ulūm Montréal — students, attendance, Qurʾān progress, parent comms. |
 | 📖 **[Tajwīd & Naḥw tools](https://github.com/Adekunes/ml-waleed-tameez)** | Interactive Arabic study tools — makhārij chart, naḥw, and raḍāʿah references. |
-| 🧪 **[lab](https://github.com/Adekunes/lab)** | Automation & AI experiments sandbox. |
 
 ---
 
