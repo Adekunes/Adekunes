@@ -96,11 +96,10 @@ I turn messy manual work into systems that run on their own. Custom AI assistant
 | Project | What it is |
 |---|---|
 | 🟧 **[BLANQ Digital](https://github.com/Adekunes/BLANQ-DIGITAL-FULL-WEBSITE)** | The agency site. Bold editorial riso, coded by hand. |
-| 🤖 **[openbrowser](https://github.com/Adekunes/openbrowser)** | Toolkit that lets AI agents browse the web autonomously. |
-| 🧩 **[ECC-abdul](https://github.com/Adekunes/ECC-abdul)** | Agent-harness performance system: skills, memory, security for Claude Code & friends. |
-| 📨 **[postiz-app](https://github.com/Adekunes/adekunespostiz-app)** | Agentic social-media scheduling tool. |
-| ✏️ **[kunsexcalidraw](https://github.com/Adekunes/kunsexcalidraw)** | Virtual whiteboard for hand-drawn diagrams. |
-| 🕌 **[Dar al-Uloom Montréal](https://github.com/Adekunes/Dar-al-uloom-Montreal)** | Islamic education management app. |
+| 🧰 **[arsenal](https://github.com/Adekunes/arsenal)** | Curated AI-systems tooling — agent-harness hooks, design rubrics, MCP server references. |
+| 🕌 **[Tadween](https://github.com/Adekunes/Tadween)** | Full-stack school-management platform for Dār Al-Ulūm Montréal — students, attendance, Qurʾān progress, parent comms. |
+| 📖 **[Tajwīd & Naḥw tools](https://github.com/Adekunes/ml-waleed-tameez)** | Interactive Arabic study tools — makhārij chart, naḥw, and raḍāʿah references. |
+| 🧪 **[lab](https://github.com/Adekunes/lab)** | Automation & AI experiments sandbox. |
 
 ---
 
