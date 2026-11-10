@@ -1,121 +1,17 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Abdul Quayum — AI Systems Builder · BLANQ Digital"/>
+<a href="https://itsabdulbuilds.com"><img src="./cards/hero.svg" width="100%" alt="Abdul Quayum, AI systems builder in Montréal"/></a>
 
-<a href="https://blanqdigital.com">
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=22&duration=3000&pause=900&color=E5431E&center=true&vCenter=true&width=720&lines=I+build+AI+agents%2C+skills+%26+automation;Websites+that+actually+convert;Dead+social+accounts%2C+revived;Tell+me+the+problem.+I'm+the+fix." alt="what I do"/>
-</a>
+<img src="./cards/heatmap.svg" width="100%" alt="Contribution heatmap, refreshed daily"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Adekunes&color=E5431E&style=flat-square&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/badge/Montr%C3%A9al-QC%20%F0%9F%87%A8%F0%9F%87%A6-141210?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20to-Client%20work-E5431E?style=flat-square"/>
-</p>
+<img src="./cards/stats.svg" width="100%" alt="Contributions over the last 12 months"/>
 
-</div>
+<a href="https://itsabdulbuilds.com"><img src="./cards/pillar-build.svg" width="32%" alt="Build: AI systems"/></a> <a href="https://itsabdulbuilds.com"><img src="./cards/pillar-teach.svg" width="32%" alt="Teach: Abdul AI Setup"/></a> <a href="https://www.instagram.com/itsabdulbuilds/"><img src="./cards/pillar-create.svg" width="32%" alt="Create: @itsabdulbuilds"/></a>
 
----
+<a href="https://github.com/Adekunes?tab=repositories"><img src="./cards/section-building.svg" width="100%" alt="What I'm building"/></a>
 
-### `~` whoami
+<a href="https://github.com/Adekunes/amanah-care"><img src="./cards/repo-amanah-care.svg" width="32%" alt="amanah-care"/></a> <a href="https://github.com/Adekunes/ml-waleed-tameez"><img src="./cards/repo-ml-waleed-tameez.svg" width="32%" alt="ml-waleed-tameez"/></a> <a href="https://github.com/Adekunes/arsenal"><img src="./cards/repo-arsenal.svg" width="32%" alt="arsenal"/></a>
 
-```ts
-const abdul = {
-  role: "AI Developer & Automation @ RS Electronics",
-  founder: "BLANQ Digital — Montréal web + AI agency",
-  builds: ["AI agents", "Claude skills", "automation systems", "websites that convert"],
-  stack: ["TypeScript", "React/Next", "Node", "Python", "Tailwind", "Supabase", "n8n"],
-  languages: ["English", "العربية", "اردو", "Français (apprend)"],
-  philosophy: "Bigger, bolder, higher contrast, less text. Build with intention, إن شاء الله.",
-};
-```
-
-I turn messy manual work into systems that run on their own. Custom AI assistants, automation, and bold editorial websites. If it's repetitive, it should be automated. If it's online, it should look like the obvious choice.
-
----
-
-### `~` stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-141210?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude%20%2F%20Anthropic-E5431E?style=for-the-badge&logo=anthropic&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### `~` the numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adekunes&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5431E&icon_color=E5431E&text_color=808080&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=Adekunes&hide_border=true&background=00000000&stroke=E5431E&ring=E5431E&fire=E5431E&currStreakLabel=E5431E&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080"/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adekunes&layout=compact&hide_border=true&bg_color=00000000&title_color=E5431E&text_color=808080&langs_count=8"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adekunes&theme=onestar&no-bg=true&no-frame=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-### `~` watch my commits get eaten 🐍
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adekunes/Adekunes/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adekunes/Adekunes/output/snake.svg"/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Adekunes/Adekunes/output/snake.svg"/>
-</picture>
-
-</div>
-
----
-
-### `~` contribution city 🌆
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution calendar"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adekunes&bg_color=00000000&color=E5431E&line=E5431E&point=141210&area=true&hide_border=true" width="90%"/>
-
-</div>
-
----
-
-### `~` featured work
-
-| Project | What it is |
-|---|---|
-| 🟧 **[BLANQ Digital](https://github.com/Adekunes/BLANQ-DIGITAL-FULL-WEBSITE)** | The agency site. Bold editorial riso, coded by hand. |
-| 🧰 **[arsenal](https://github.com/Adekunes/arsenal)** | Curated AI-systems tooling — agent-harness hooks, design rubrics, MCP server references. |
-| 🕌 **[Tadween](https://github.com/Adekunes/Tadween)** | Full-stack school-management platform for Dār Al-Ulūm Montréal — students, attendance, Qurʾān progress, parent comms. |
-| 📖 **[Tajwīd & Naḥw tools](https://github.com/Adekunes/ml-waleed-tameez)** | Interactive Arabic study tools — makhārij chart, naḥw, and raḍāʿah references. |
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="quote"/>
-
-### `~` connect
-
-<a href="https://blanqdigital.com"><img src="https://img.shields.io/badge/blanqdigital.com-E5431E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://instagram.com/abdulbuilds"><img src="https://img.shields.io/badge/@abdulbuilds-141210?style=for-the-badge&logo=instagram&logoColor=E5431E"/></a>
-<a href="https://x.com/buildswithabdul"><img src="https://img.shields.io/badge/@buildswithabdul-141210?style=for-the-badge&logo=x&logoColor=E5431E"/></a>
-<a href="https://www.linkedin.com/in/abdul-quayum-adekunle-66b9a61a3"><img src="https://img.shields.io/badge/LinkedIn-141210?style=for-the-badge&logo=linkedin&logoColor=E5431E"/></a>
-<a href="https://instagram.com/blanqdigital"><img src="https://img.shields.io/badge/@blanqdigital-141210?style=for-the-badge&logo=instagram&logoColor=808080"/></a>
-
-<sub><i>Abdul Builds · personal AI-creator brand &nbsp;|&nbsp; BLANQ Agence Web Inc. · Montréal · AI · Web · Automation</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E5431E&height=90&section=footer"/>
+<sub><a href="https://itsabdulbuilds.com">itsabdulbuilds.com</a> &nbsp;/&nbsp; <a href="https://www.instagram.com/itsabdulbuilds/">instagram</a> &nbsp;/&nbsp; <a href="https://x.com/buildswithabdul">x</a> &nbsp;/&nbsp; <a href="https://www.linkedin.com/in/abdul-quayum-adekunle-66b9a61a3">linkedin</a> &nbsp;/&nbsp; <a href="https://blanqdigital.com">agency work: BLANQ Digital</a></sub>
 
 </div>

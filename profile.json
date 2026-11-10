@@ -1,0 +1,21 @@
+{
+  "login": "Adekunes",
+  "timezone_offset_hours": -5,
+  "hero": {
+    "kicker": "AI SYSTEMS BUILDER · MONTRÉAL",
+    "first": "Abdul",
+    "last": "Quayum",
+    "blurb": "I build AI systems for real businesses, make reels about what AI can do, and teach people to run their own.",
+    "link": "itsabdulbuilds.com"
+  },
+  "pillars": [
+    {"slug": "build", "kicker": "BUILD", "title": "AI systems", "body": "Agents, automations and Claude skills that take the repetitive work off a business.", "theme": "lime"},
+    {"slug": "teach", "kicker": "TEACH", "title": "Abdul AI Setup", "body": "One-on-one sessions. I set you up with AI, then teach you to run it yourself.", "theme": "ink"},
+    {"slug": "create", "kicker": "CREATE", "title": "@itsabdulbuilds", "body": "Reels on the AI you didn't know you could do. New ones every week.", "theme": "bone"}
+  ],
+  "repos": [
+    {"slug": "amanah-care", "name": "amanah-care", "body": "Encrypted care log for families looking after an elderly parent. Built for MuslimHacks 2026.", "meta": "JavaScript · hackathon"},
+    {"slug": "ml-waleed-tameez", "name": "ml-waleed-tameez", "body": "Arabic study hub: numbers, nahw, makharij al-huruf and rada'ah as interactive pages.", "meta": "JavaScript · live"},
+    {"slug": "arsenal", "name": "arsenal", "body": "Agent-harness hooks, design rubrics and MCP references, salvaged from a dozen forks.", "meta": "JavaScript · toolkit"}
+  ]
+}
